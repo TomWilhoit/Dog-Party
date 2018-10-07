@@ -1,0 +1,138 @@
+
+* {
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+.nav {
+	
+	font-family: 'Raleway', sans-serif; 
+	font-size: 25px;
+	padding: 15px;
+	text-align: right;
+	
+}
+
+.background-picture {
+	
+	background-color:blue;
+	background-image: url(images/park.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 450px;
+}
+
+.h3 {
+	
+	margin: 15px;
+	text-align: center;
+}
+
+.text {
+
+	font-family: 'Raleway', sans-serif;
+	font-size: 25px;
+	padding: 15px;
+	text-align: center;
+}
+
+.header {
+	
+	background-color: #91dfe3;
+	font-family: 'Raleway', sans-serif;
+	height: 60px;
+	text-align:right;
+	
+	}
+
+.icon {
+	
+	height: auto;
+	float: left;
+	margin:10px;
+	width: 35px;
+
+}
+
+.nav {
+
+	margin-right: 15px;
+	padding-top: 20px;
+	
+}
+
+.text2 {
+	
+	font-family: 'Raleway', sans-serif;
+	font-size: 15px;
+	margin-bottom: 40px;
+	padding: 15px;
+  text-align: center;
+  border: solid;
+  border-color: #3f8ca6 ;
+
+}
+
+.center-dog {
+
+  border-color: #3f8ca6;
+  border-radius: 50%;
+  border-style: solid; 
+	display: block;
+  height: auto;
+  margin:auto;
+  max-width: 28%;
+    
+}
+
+.div2 {
+	
+	width: 100%;
+
+}
+
+.dog-images {
+
+	border-color: #3f8ca6;
+	border-radius: 150px;
+  border-style: solid;  
+	margin: 40px 80px;
+	max-width: 150px;
+	
+	}
+
+.article {
+		
+	display: inline-block;	
+	float: left;
+	font-family: 'Raleway', sans-serif;
+	margin: 20px;
+	text-align: center;
+	width: 30.33%;
+
+}
+
+.button {
+	size: 25px;
+}
+
+
+.links {
+
+	background-color: #3f8ca6;
+	clear:left;
+	font-family: 'Raleway', sans-serif;
+	height: 150px;
+	margin-top: 40px;
+	text-align: center;
+	
+}
+
+.bottombutton{ 
+font-family: :'Raleway', sans-serf;
+font-size: 14px;
+color: white;
+
+ }
